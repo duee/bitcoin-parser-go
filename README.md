@@ -6,7 +6,7 @@ parser bitcoin（testnet3）local file,It includes the following contents
 
 Based on code integration and simple modifications in resources; the program may not be complete, but it can run.
 Modification record
-1. Change the block / TX / utxo query method to query by parameters (the original is command query)
+1. Change the block/tx/utxo query method to query by parameters (the original is command query)
 2. Removed utxo output CVS
 3. Enter all by default
 4. Add generate addrindex according to utxo (save address as key)
@@ -20,5 +20,5 @@ Modification record
 
 ## reference material:
 https://github.com/in3rsha/bitcoin-utxo-dump  
-https://github.com/ruqqq/blockchainparser
+https://github.com/ruqqq/blockchainparser  
 Only code integration and simple modifications have been made; the program may not be complete, but it can run.
